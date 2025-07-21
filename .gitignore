@@ -1,5 +1,6 @@
 # Data files
 data/
+submission/
 
 # Model files and logs
 catboost_info/
